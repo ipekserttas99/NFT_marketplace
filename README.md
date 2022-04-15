@@ -1,4 +1,4 @@
-#☄️ NFT Marketplace ☄️
+# ☄️ NFT Marketplace ☄️
 
 The Complete NFT Web Development Course - Zero To Expert kursu kapsamında tamamladığım bir NFT Marketplace projesidir.
 NFT olarak kullanılacak resimlerin saklanması için kullandığım hosting servisi: ImgBB 
